@@ -21,6 +21,10 @@ brew install sshpass
 ```
 brew install https://raw.githubusercontent.com/perkons/homebrew-sshpass/master/sshpass.rb
 ```
+or
+```
+brew install perkons/homebrew-sshpass/sshpass
+```
 
 ## Uninstall
 
@@ -29,7 +33,7 @@ brew install https://raw.githubusercontent.com/perkons/homebrew-sshpass/master/s
 ```
 brew rm sshpass
 ```
-2. untap
+2. remove tap
 ```
 brew untap perkons/sshpass
 ```
